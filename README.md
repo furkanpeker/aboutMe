@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security
 - How to 📫 (reach) me;
 Email: f.pkrfurkan@gmail.com
-<a href"Linkedin">https://www.linkedin.com/in/furkan-peker-a9b1061ba/<\a>
+<a href="https://www.linkedin.com/in/furkan-peker-a9b1061ba">Linkedin</a>
 
 <!---
 furkanpeker/furkanpeker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
