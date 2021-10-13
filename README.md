@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @furkanpeker
+- Hi there, I’m Furkan 👋
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Network Management, Python Scripting 
-- 📫 How to reach me;
-Gmail: f.pkrfurkan@gmail.com
-Linkedin: https://www.linkedin.com/in/furkan-peker-a9b1061ba/
+- How to 📫 (reach) me;
+Email: f.pkrfurkan@gmail.com
+<a href"Linkedin">https://www.linkedin.com/in/furkan-peker-a9b1061ba/<\a>
 
 <!---
 furkanpeker/furkanpeker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
