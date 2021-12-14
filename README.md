@@ -1,7 +1,7 @@
 ### Hi there, I’m Furkan 👋
 - I’m 👀 in Cyber Security
 - I'm currently learning and working on Python Scripting.
-- 📫 How to (reach) me; <a href="https://www.linkedin.com/in/furkan-peker-a9b1061ba">Linkedin</a>        f.pkrfurkan@gmail.com  phone: 534 212 5233
+- 📫 How to (reach) me; <a href="https://www.linkedin.com/in/furkan-peker-a9b1061ba">Linkedin</a>, f.pkrfurkan@gmail.com,  phone: 534 212 5233
 
 
 
