@@ -1,7 +1,7 @@
 ### Hi there, I’m Furkan 👋
 - I’m 👀 in Cyber Security
 - I'm currently learning and studying on Networking, Ethical Hacking.
-- 📫 How to (reach) me; f.pkrfurkan@gmail.com, <a href="https://www.linkedin.com/in/furkanpeker/">Linkedin</a>, <a href="https://gitlab.com/furkanpeker">GitLab</a>
+- 📫 How to (reach) me; f.pkrfurkan@gmail.com, <a href="https://www.linkedin.com/in/furkanpeker/" target="_blank">Linkedin</a>, <a href="https://gitlab.com/furkanpeker">GitLab</a>
 
 
 
